@@ -1,0 +1,13 @@
+Input:C:\GitHub\AttGAN-PyTorch\data\custom\emma_watson.jpg
+Input full path:C:\GitHub\AttGAN-PyTorch\data\custom\emma_watson.jpg
+Camera parameters:1408.2,1408.2,772.5,772.5
+Output HOG:emma_watson.hog
+Output image:emma_watson.jpg
+Output aligned directory:emma_watson_aligned
+Output csv:emma_watson.csv
+Gaze: 1
+AUs: 1
+Landmarks 2D: 1
+Landmarks 3D: 1
+Pose: 1
+Shape parameters: 1

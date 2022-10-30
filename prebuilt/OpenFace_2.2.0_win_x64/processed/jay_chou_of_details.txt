@@ -1,0 +1,13 @@
+Input:C:\GitHub\AttGAN-PyTorch\data\custom\jay_chou.jpeg
+Input full path:C:\GitHub\AttGAN-PyTorch\data\custom\jay_chou.jpeg
+Camera parameters:1225,1225,672,672
+Output HOG:jay_chou.hog
+Output image:jay_chou.jpg
+Output aligned directory:jay_chou_aligned
+Output csv:jay_chou.csv
+Gaze: 1
+AUs: 1
+Landmarks 2D: 1
+Landmarks 3D: 1
+Pose: 1
+Shape parameters: 1

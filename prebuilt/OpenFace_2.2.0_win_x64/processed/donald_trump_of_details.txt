@@ -1,0 +1,13 @@
+Input:C:\GitHub\AttGAN-PyTorch\data\custom\donald_trump.jpg
+Input full path:C:\GitHub\AttGAN-PyTorch\data\custom\donald_trump.jpg
+Camera parameters:1401.82,1401.82,769,769
+Output HOG:donald_trump.hog
+Output image:donald_trump.jpg
+Output aligned directory:donald_trump_aligned
+Output csv:donald_trump.csv
+Gaze: 1
+AUs: 1
+Landmarks 2D: 1
+Landmarks 3D: 1
+Pose: 1
+Shape parameters: 1

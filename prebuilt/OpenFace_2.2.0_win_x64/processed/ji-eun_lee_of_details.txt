@@ -1,0 +1,13 @@
+Input:C:\GitHub\AttGAN-PyTorch\data\custom\ji-eun_lee.jpg
+Input full path:C:\GitHub\AttGAN-PyTorch\data\custom\ji-eun_lee.jpg
+Camera parameters:433.724,433.724,238.5,237.5
+Output HOG:ji-eun_lee.hog
+Output image:ji-eun_lee.jpg
+Output aligned directory:ji-eun_lee_aligned
+Output csv:ji-eun_lee.csv
+Gaze: 1
+AUs: 1
+Landmarks 2D: 1
+Landmarks 3D: 1
+Pose: 1
+Shape parameters: 1

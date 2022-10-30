@@ -1,0 +1,11 @@
+Input:C:\GitHub\AttGAN-PyTorch\data\custom
+Input full path:C:\GitHub\AttGAN-PyTorch\data\custom
+Camera parameters:1401.82,1401.82,769,769
+Output video:custom.avi
+Output csv:custom.csv
+Gaze: 1
+AUs: 1
+Landmarks 2D: 1
+Landmarks 3D: 1
+Pose: 1
+Shape parameters: 1

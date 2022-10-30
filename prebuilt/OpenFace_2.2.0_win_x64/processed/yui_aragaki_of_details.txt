@@ -1,0 +1,13 @@
+Input:C:\GitHub\AttGAN-PyTorch\data\custom\yui_aragaki.jpg
+Input full path:C:\GitHub\AttGAN-PyTorch\data\custom\yui_aragaki.jpg
+Camera parameters:581.51,581.51,319,319
+Output HOG:yui_aragaki.hog
+Output image:yui_aragaki.jpg
+Output aligned directory:yui_aragaki_aligned
+Output csv:yui_aragaki.csv
+Gaze: 1
+AUs: 1
+Landmarks 2D: 1
+Landmarks 3D: 1
+Pose: 1
+Shape parameters: 1

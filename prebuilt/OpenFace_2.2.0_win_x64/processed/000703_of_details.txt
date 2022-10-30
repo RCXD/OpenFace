@@ -1,0 +1,13 @@
+Input:C:\GitHub\AttGAN-PyTorch\data\celeba\000703.jpg
+Input full path:C:\GitHub\AttGAN-PyTorch\data\celeba\000703.jpg
+Camera parameters:183.073,183.073,89,109
+Output HOG:000703.hog
+Output image:000703.jpg
+Output aligned directory:000703_aligned
+Output csv:000703.csv
+Gaze: 1
+AUs: 1
+Landmarks 2D: 1
+Landmarks 3D: 1
+Pose: 1
+Shape parameters: 1

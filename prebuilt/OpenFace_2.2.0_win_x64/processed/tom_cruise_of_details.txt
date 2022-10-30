@@ -1,0 +1,13 @@
+Input:C:\GitHub\AttGAN-PyTorch\data\custom\tom_cruise.jpg
+Input full path:C:\GitHub\AttGAN-PyTorch\data\custom\tom_cruise.jpg
+Camera parameters:1241.41,1241.41,681,681
+Output HOG:tom_cruise.hog
+Output image:tom_cruise.jpg
+Output aligned directory:tom_cruise_aligned
+Output csv:tom_cruise.csv
+Gaze: 1
+AUs: 1
+Landmarks 2D: 1
+Landmarks 3D: 1
+Pose: 1
+Shape parameters: 1
